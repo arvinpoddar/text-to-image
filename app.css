@@ -79,11 +79,11 @@ body {
   }
 
   .outer .right {
-    flex: 0.5;
+    flex: 0.2;
   }
 
   #hash-grid {
-    height: 60vw;
-    width: 60vw;
+    height: 70vw;
+    width: 70vw;
   }
 }
